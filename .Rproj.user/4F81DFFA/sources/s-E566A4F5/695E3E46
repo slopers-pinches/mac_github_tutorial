@@ -1,0 +1,25 @@
+{
+    "id": "695E3E46",
+    "path": "~/R - Bryan's Workspace/GitHub Tutorial/content/post/2020-11-09-iris-example/index.Rmd",
+    "project_path": "content/post/2020-11-09-iris-example/index.Rmd",
+    "type": "r_markdown",
+    "hash": "605727198",
+    "contents": "",
+    "dirty": false,
+    "created": 1604977412680.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "cursorPosition": "2,14",
+        "scrollLine": "0",
+        "last_setup_crc32": "E566A4F5bb338d19"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1604977946,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1604977946762,
+    "read_only": false,
+    "read_only_alternatives": []
+}
